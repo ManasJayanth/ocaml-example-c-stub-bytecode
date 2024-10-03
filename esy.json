@@ -1,0 +1,15 @@
+{
+  "esy": {
+    "buildEnv": {
+      "PATH": "/opt/homebrew/bin:$PATH",
+      "PKG_CONFIG_PATH": "/opt/homebrew/Cellar/ncurses/6.5/lib/pkgconfig:$PKG_CONFIG_PATH"
+    }
+  },
+  "dependencies": {
+    "ocaml": "5.x"
+  },
+  "devDependencies": {
+    "@opam/ocaml-lsp-server": "*",
+    "@opam/merlin": "*"
+  }
+}

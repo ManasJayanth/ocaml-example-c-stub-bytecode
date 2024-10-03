@@ -1,0 +1,16 @@
+# esy
+_esy
+node_modules
+
+# Emacs
+*~
+
+# OCaml
+*.cm*
+
+# C
+*.so
+*.o
+*.a
+
+a.out
